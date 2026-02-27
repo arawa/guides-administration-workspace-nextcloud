@@ -1,4 +1,6 @@
-# Guides d'administration des workspaces pour Nextcloud par Arawa (pour l'application [Workspace](https://github.com/arawa/workspace/) développée par la société Arawa elle-même)
+# Guides d'administration des workspaces pour Nextcloud par Arawa
+
+Réalisés pour l'application [Workspace](https://github.com/arawa/workspace/) développée par la société Arawa elle-même.
 
 ## Description
 
