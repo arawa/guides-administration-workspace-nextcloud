@@ -35,9 +35,9 @@ Assurez-vous que toutes les contributions respectent les conditions de la licenc
 
 # Fonctionnement des sources
 
-Le document source est composé d'un document maître au format "odm" et de dépendances au format "odt". Chaque fichier "odt" est donc une brique, et toutes ces briques sont appelées dans un ordre particulier depuis le document maître pour former le document final. 
+Le document source est au format "odt". 
 
-Si vous souhaitez personnaliser le guide, téléchargez l'ensemble des sources, puis modifiez le⋅s fichier⋅s odt voulus, puis : 
+Si vous souhaitez personnaliser le guide, téléchargez la source au format odt, puis : 
 1. Ouvrez le fichiez odt 
 2. Mettez à jour si nécessaire l'index (sommaire)
 3. Mettez à jour le tableau de contribution
